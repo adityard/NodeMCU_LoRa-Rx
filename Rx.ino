@@ -9,7 +9,7 @@
 #define dio0 2
 WidgetLCD lcd(V1);
 
-char auth[] = "_P_kO6RGn4g5Q5WjK0I6bk6NqjrASjNQ";
+char auth[] = "AuthorizationCode";
 char ssid[]="WiFi Username";
 char password[]="WiFi Password";
 
